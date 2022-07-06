@@ -1,6 +1,5 @@
-/** @jsx h */
 import { serve } from 'https://deno.land/std@0.139.0/http/server.ts'
-import { h, ssr } from 'https://crux.land/nanossr@0.0.4'
+import { h, ssr } from 'https://crux.land/api/get/7GrKMy.ts'
 
 const App = () => {
   return (
